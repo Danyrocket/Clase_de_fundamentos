@@ -1,0 +1,1 @@
+Se esta trabajando en clase la creación de repositorios locales junto con repositorios remotos, utilizando el programa GitHub
